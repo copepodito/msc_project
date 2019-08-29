@@ -1,6 +1,6 @@
 # MSc Bioinformatics with Systems Biology
 
-This repository contains all code I used to manipulate and analyse the datasets of "The Great Antibody repertoire" by Briney *et. al* for my masters project. Their work is publicly available [here](https://github.com/briney/grp_paper). Only annotated datasets for eight of the ten subjects originally considered in the study were used for my work, namely those present in the following list:
+This repository contains all code I used to manipulate and analyse the datasets of "The Great Antibody repertoire" by Briney *et. al* for my Master's Project (MP). Their work is publicly available [here](https://github.com/briney/grp_paper). Only annotated datasets for eight of the ten subjects originally considered in the study were used for my work, namely those present in the following list:
 - 316188
   - Annotated data: [consensus CSVs](http://burtonlab.s3.amazonaws.com/sequencing-data/hiseq_2016-supplement/316188_HNCHNBCXY_consensus_UID18-cdr3nt-90_minimal_071817.tar.gz)
 - 326650
