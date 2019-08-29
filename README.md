@@ -18,4 +18,20 @@ This repository contains all code I used to manipulate and analyse the datasets 
 - D103
   - Annotated data: [consensus CSVs](http://burtonlab.s3.amazonaws.com/sequencing-data/hiseq_2016-supplement/D103_HCGCLBCXY_consensus_UID18-cdr3nt-90_minimal_071817.tar.gz)
   
-Scripts in this repository are implemented for eight directories, each one named after the number of the subject (e.g. `316188`) and containing their respective consensus CSVs. These directories should be placed within a parent directory named `~/Desktop/Project` for the original code to work. These requirements can be easily modified if desired (see commented code).
+Scripts in this repository are implemented to be run in the following skeleton directory:
+
+```
+~  
+└── Desktop
+    └── Project  
+        ├── 316188
+        ├── 326650
+        ├── 326737
+        ├── 326780
+        ├── 326797
+        ├── 326907
+        ├── 327059
+        └── D103
+```
+
+Each subdirectory should have its respective consensus files. The skeleton can be easily modified (see commented code).
